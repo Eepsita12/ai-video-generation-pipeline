@@ -1,0 +1,6 @@
+# Ignore generated media
+*.mp3
+*.mp4
+*.jpg
+*.jpeg
+*.png

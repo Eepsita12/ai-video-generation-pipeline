@@ -1,6 +1,8 @@
-# Ignore generated media
 *.mp3
+*.wav
 *.mp4
-*.jpg
 *.jpeg
+*.jpg
 *.png
+generated/
+__pycache__/
